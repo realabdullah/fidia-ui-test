@@ -3,6 +3,7 @@
     <Header />
     <main>
       <Welcome />
+      <Stats />
     </main>
   </div>
 </template>
