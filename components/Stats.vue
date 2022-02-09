@@ -25,7 +25,7 @@
             d="M2.33333 14.6667C2.79357 14.6667 3.16667 14.2936 3.16667 13.8333C3.16667 13.3731 2.79357 13 2.33333 13C1.8731 13 1.5 13.3731 1.5 13.8333C1.5 14.2936 1.8731 14.6667 2.33333 14.6667Z"
             stroke="#98A2B3" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <img class="green__graph" src="./img/totalcustomer.png" alt="tc">
+        <img class="green__graph" src="~/assets/img/totalcustomer.png" alt="tc">
       </div>
     </div>
     <div class="stat">
@@ -53,7 +53,7 @@
             d="M2.33333 14.6667C2.79357 14.6667 3.16667 14.2936 3.16667 13.8333C3.16667 13.3731 2.79357 13 2.33333 13C1.8731 13 1.5 13.3731 1.5 13.8333C1.5 14.2936 1.8731 14.6667 2.33333 14.6667Z"
             stroke="#98A2B3" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <img class="red__graph" src="./img/members.png" alt="members">
+        <img class="red__graph" src="~/assets/img/members.png" alt="members">
       </div>
     </div>
     <div class="stat">
@@ -81,7 +81,7 @@
             d="M2.33333 14.6667C2.79357 14.6667 3.16667 14.2936 3.16667 13.8333C3.16667 13.3731 2.79357 13 2.33333 13C1.8731 13 1.5 13.3731 1.5 13.8333C1.5 14.2936 1.8731 14.6667 2.33333 14.6667Z"
             stroke="#98A2B3" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <img class="green__graph" src="./img/activenow.png" alt="active">
+        <img class="green__graph" src="~/assets/img/activenow.png" alt="active">
       </div>
     </div>
   </section>
