@@ -9,22 +9,22 @@
         <nav>
           <ul>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Home</a>
+              <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Dashboard</a>
+              <NuxtLink to="/">Dashboard</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Projects</a>
+              <NuxtLink to="/">Projects</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Tasks</a>
+              <NuxtLink to="/">Tasks</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Reporting</a>
+              <NuxtLink to="/">Reporting</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Users</a>
+              <NuxtLink to="/">Users</NuxtLink>
             </li>
           </ul>
         </nav>
@@ -69,22 +69,22 @@
         <div class="mobile__nav" id="mobile__nav">
           <ul>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Home</a>
+              <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Dashboard</a>
+              <NuxtLink to="/">Dashboard</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Projects</a>
+              <NuxtLink to="/">Projects</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Tasks</a>
+              <NuxtLink to="/">Tasks</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Reporting</a>
+              <NuxtLink to="/">Reporting</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Users</a>
+              <NuxtLink to="/">Users</NuxtLink>
             </li>
             <li class="more__nav">
               <button class="__upgrade">
@@ -116,22 +116,22 @@
               </div>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Overview</a>
+              <NuxtLink to="/">Overview</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Notifications</a>
+              <NuxtLink to="/">Notifications</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Analytics</a>
+              <NuxtLink to="/">Analytics</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Saved reports</a>
+              <NuxtLink to="/">Saved reports</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Trade history</a>
+              <NuxtLink to="/">Trade history</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">User reports</a>
+              <NuxtLink to="/">User reports</NuxtLink>
             </li>
           </ul>
         </div>
@@ -142,22 +142,22 @@
         <nav>
           <ul>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Overview</a>
+              <NuxtLink to="/">Overview</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Notifications</a>
+              <NuxtLink to="/">Notifications</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Analytics</a>
+              <NuxtLink to="/">Analytics</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Saved reports</a>
+              <NuxtLink to="/">Saved reports</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">Trade history</a>
+              <NuxtLink to="/">Trade history</NuxtLink>
             </li>
             <li>
-              <a href="#" target="_blank" rel="noopener noreferrer">User reports</a>
+              <NuxtLink to="/">User reports</NuxtLink>
             </li>
           </ul>
         </nav>
