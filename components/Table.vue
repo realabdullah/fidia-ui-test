@@ -484,10 +484,10 @@
       <div class="table__footer">
         <div class="table__btns">
           <div class="t__btns">
-            <button class="__previous">
+            <button class="__previous" aria-label="previous page">
               Previous
             </button>
-            <button class="__next">
+            <button class="__next" aria-label="next page">
               Next
             </button>
           </div>
