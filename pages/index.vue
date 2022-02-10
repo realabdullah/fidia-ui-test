@@ -4,6 +4,8 @@
     <main>
       <Welcome />
       <Stats />
+      <Filters />
+      <Table />
     </main>
   </div>
 </template>
