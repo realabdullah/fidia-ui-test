@@ -124,7 +124,7 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/asset~/assets/img/av1.png" alt="avatar">
+                <img src="~/assets/img/av1.png" alt="avatar">
               </span>
               <span class="avatar">
                 <img src="~/assets/img/av2.png" alt="avatar">
