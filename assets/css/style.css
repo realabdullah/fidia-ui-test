@@ -408,6 +408,10 @@ nav ul li a {
   overflow: auto;
 }
 
+.table__div::-webkit-scrollbar {
+  width: 1px;
+}
+
 .__companies {
   width: 100%;
   max-width: 100%;
