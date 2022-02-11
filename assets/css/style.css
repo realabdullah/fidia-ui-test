@@ -1,6 +1,9 @@
 html {
   font-size: 1em;
   line-height: 1.4;
+}
+
+body {
   font-family: "Inter", sans-serif;
 }
 
@@ -154,8 +157,8 @@ nav ul li a {
 .nav__sub__four svg,
 .__search svg {
   position: absolute;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .__welcome {
@@ -228,16 +231,19 @@ nav ul li a {
 }
 
 .__stats {
-  display: flex;
+  /* display: flex;
   align-items: stretch;
   justify-content: flex-start;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 24px; */
+  display: grid;
+  grid-gap: 1.5em;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   padding: 25px clamp(1em, 5vw, 6.25em);
 }
 
 .stat {
-  width: clamp(300px, 90vw, 500px);
+  /* width: clamp(300px, 90vw, 500px); */
   height: auto;
   display: flex;
   align-items: stretch;
@@ -375,7 +381,8 @@ nav ul li a {
   color: #6941c6;
 }
 
-.more__filters {
+.more__filters,
+.edit__filters {
   padding: 10px 16px;
   border-radius: 8px;
   box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
@@ -394,6 +401,10 @@ nav ul li a {
 .more__filters:hover {
   transition: 0.5s;
   background: #f1eded;
+}
+
+.edit__filters {
+  display: none;
 }
 
 .__table {
@@ -433,6 +444,10 @@ nav ul li a {
 .__companies td {
   padding: 24px;
   text-align: left;
+}
+
+.__action {
+  width: 20px;
 }
 
 .__companies tr:nth-child(even) {
@@ -812,6 +827,25 @@ nav ul li a {
   .__filters,
   .filters {
     flex-direction: column-reverse;
+  }
+
+  .filters {
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+  }
+
+  .more__filters {
+    display: none;
+  }
+
+  .edit__filters {
+    display: flex;
+  }
+
+  .fd {
+    margin-top: 12px;
   }
 
   .__search,
