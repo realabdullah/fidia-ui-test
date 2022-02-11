@@ -403,6 +403,10 @@ nav ul li a {
   background: #f1eded;
 }
 
+.edit__filters span {
+  padding-left: 10px;
+}
+
 .edit__filters {
   display: none;
 }
