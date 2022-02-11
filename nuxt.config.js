@@ -37,7 +37,15 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/google-fonts'
   ],
+
+  // fonts
+  googleFonts: {
+    families: {
+      Inter: [100, 300, 400, 500, 600, 700, 800, 900]
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
