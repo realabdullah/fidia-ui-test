@@ -369,7 +369,7 @@ nav ul li a {
   display: flex;
   align-items: center;
   margin-right: 12px;
-  border-radius: 16px;
+  border-radius: 8px;
 }
 
 .all__time span,
@@ -451,7 +451,7 @@ nav ul li a {
 }
 
 .__action {
-  width: 20px;
+  padding: 24px 0 !important;
 }
 
 .__companies tr:nth-child(even) {
@@ -543,6 +543,7 @@ nav ul li a {
   font-weight: normal;
   font-size: 0.875em;
   line-height: 1.25em;
+  color: #667085;
 }
 
 .__about p {
@@ -564,7 +565,6 @@ nav ul li a {
 .__customer,
 .__churned {
   padding: 2px 8px;
-  color: #027a48;
   border-radius: 16px;
   font-weight: 500;
   font-size: 0.75em;
@@ -574,10 +574,12 @@ nav ul li a {
 
 .__customer {
   background: #ecfdf3;
+  color: #027a48;
 }
 
 .__churned {
   background: #f2f4f7;
+  color: #344054;
 }
 
 .catalog__progress {

@@ -124,21 +124,21 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
+                <img src="~/assets/img/av6.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av2.png" alt="avatar">
+                <img src="~/assets/img/av7.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av3.png" alt="avatar">
+                <img src="~/assets/img/av8.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av4.png" alt="avatar">
+                <img src="~/assets/img/av9.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
+                <img src="~/assets/img/av10.png" alt="avatar">
               </span>
-              <span class="avatar avatar__no">+5</span>
+              <span class="avatar avatar__no">+8</span>
             </td>
             <td class="__about">
               <p>Design software</p>
@@ -188,21 +188,21 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
+                <img src="~/assets/img/av10.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av2.png" alt="avatar">
+                <img src="~/assets/img/av11.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av3.png" alt="avatar">
+                <img src="~/assets/img/av12.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av4.png" alt="avatar">
+                <img src="~/assets/img/av9.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
+                <img src="~/assets/img/av13.png" alt="avatar">
               </span>
-              <span class="avatar avatar__no">+5</span>
+              <span class="avatar avatar__no">+2</span>
             </td>
             <td class="__about">
               <p>Data prediction</p>
@@ -252,21 +252,20 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
+                <img src="~/assets/img/av5.png" alt="avatar">
               </span>
               <span class="avatar">
                 <img src="~/assets/img/av2.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av3.png" alt="avatar">
+                <img src="~/assets/img/av6.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av4.png" alt="avatar">
+                <img src="~/assets/img/av7.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
+                <img src="~/assets/img/av11.png" alt="avatar">
               </span>
-              <span class="avatar avatar__no">+5</span>
             </td>
             <td class="__about">
               <p>Productivity app</p>
@@ -316,21 +315,21 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
-              </span>
-              <span class="avatar">
-                <img src="~/assets/img/av2.png" alt="avatar">
-              </span>
-              <span class="avatar">
                 <img src="~/assets/img/av3.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av4.png" alt="avatar">
+                <img src="~/assets/img/av6.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
+                <img src="~/assets/img/av11.png" alt="avatar">
               </span>
-              <span class="avatar avatar__no">+5</span>
+              <span class="avatar">
+                <img src="~/assets/img/av9.png" alt="avatar">
+              </span>
+              <span class="avatar">
+                <img src="~/assets/img/av10.png" alt="avatar">
+              </span>
+              <span class="avatar avatar__no">+1</span>
             </td>
             <td class="__about">
               <p>Web app integrations</p>
@@ -380,21 +379,21 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
-              </span>
-              <span class="avatar">
-                <img src="~/assets/img/av2.png" alt="avatar">
+                <img src="~/assets/img/av5.png" alt="avatar">
               </span>
               <span class="avatar">
                 <img src="~/assets/img/av3.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av4.png" alt="avatar">
+                <img src="~/assets/img/av11.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
+                <img src="~/assets/img/av6.png" alt="avatar">
               </span>
-              <span class="avatar avatar__no">+5</span>
+              <span class="avatar">
+                <img src="~/assets/img/av12.png" alt="avatar">
+              </span>
+              <span class="avatar avatar__no">+6</span>
             </td>
             <td class="__about">
               <p>Sales CRM</p>
@@ -444,21 +443,21 @@
             </td>
             <td class="avatars">
               <span class="avatar">
-                <img src="~/assets/img/av1.png" alt="avatar">
+                <img src="~/assets/img/av7.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av2.png" alt="avatar">
+                <img src="~/assets/img/av12.png" alt="avatar">
               </span>
               <span class="avatar">
-                <img src="~/assets/img/av3.png" alt="avatar">
+                <img src="~/assets/img/av8.png" alt="avatar">
+              </span>
+              <span class="avatar">
+                <img src="~/assets/img/av11.png" alt="avatar">
               </span>
               <span class="avatar">
                 <img src="~/assets/img/av4.png" alt="avatar">
               </span>
-              <span class="avatar">
-                <img src="~/assets/img/av5.png" alt="avatar">
-              </span>
-              <span class="avatar avatar__no">+5</span>
+              <span class="avatar avatar__no">+4</span>
             </td>
             <td class="__about">
               <p>Automation and workflow</p>
