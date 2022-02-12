@@ -439,7 +439,6 @@
 export default {
   computed: {
     companies () {
-      console.log(this.$store.state.companies)
       return this.$store.state.companies
     }
   }
