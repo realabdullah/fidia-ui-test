@@ -81,7 +81,6 @@ export default {
   methods: {
     showTable () {
       this.shown = !this.shown
-      console.log('shiw')
     }
   },
   computed: {

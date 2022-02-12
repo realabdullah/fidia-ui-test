@@ -127,7 +127,7 @@ nav ul li a {
 }
 
 .nav__sub__four,
-.__search {
+.__search form {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -232,11 +232,6 @@ nav ul li a {
 }
 
 .__stats {
-  /* display: flex;
-  align-items: stretch;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-  gap: 24px; */
   display: grid;
   grid-gap: 1.5em;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -244,7 +239,6 @@ nav ul li a {
 }
 
 .stat {
-  /* width: clamp(300px, 90vw, 500px); */
   height: auto;
   display: flex;
   align-items: stretch;
