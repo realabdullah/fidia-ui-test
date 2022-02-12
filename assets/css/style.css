@@ -518,9 +518,9 @@ nav ul li a {
 /* checked mark aspect */
 [type="checkbox"]:not(:checked) + label:after,
 [type="checkbox"]:checked + label:after {
-  content: '✔';
+  content: url('~/assets/img/check.svg');
   position: absolute;
-  top: -11px; 
+  top: -12px; 
   left: 8px;
   font-size: 15px;
   line-height: 1.2;
@@ -544,10 +544,10 @@ nav ul li a {
 
 .th_check:not(:checked) + label:after,
 .th_check:checked + label:after {
-  content: '-';
+  content: url('~/assets/img/minus.svg');
   position: absolute;
-  top: -9px;
-  left: 10px;
+  top: -12px;
+  left: 8px;
   font-size: 15px;
   font-weight: 700;
   line-height: 1.2;
