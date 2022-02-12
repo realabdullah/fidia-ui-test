@@ -41,7 +41,7 @@
             stroke="#667085" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </label>
-        <input v-model="search" type="search" name="search" id="search" placeholder="Search">
+        <input v-model="search" type="search" id="search" placeholder="Search">
       </form>  
     </div>
   </section>
