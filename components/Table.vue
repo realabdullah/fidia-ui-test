@@ -34,11 +34,8 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+                <input type="checkbox" id="one" checked />
+                <label for="one"></label>
               </div>
               <img src="~/assets/img/catalog.png" alt="company">
               <div class="__company">
@@ -98,11 +95,8 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+                <input type="checkbox" id="two" checked />
+                <label for="two"></label>
               </div>
               <img src="~/assets/img/circloos.png" alt="company">
               <div class="__company">
@@ -162,11 +156,8 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+                <input type="checkbox" id="three" checked />
+                <label for="three"></label>
               </div>
               <img src="~/assets/img/commandr.png" alt="company">
               <div class="__company">
@@ -225,12 +216,9 @@
           </tr>
           <tr>
             <td class="company__identity">
-              <div class="uncheck__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+              <div class="check__box">
+                <input type="checkbox" id="four" disabled />
+                <label for="four"></label>
               </div>
               <img src="~/assets/img/hourglass.png" alt="company">
               <div class="__company">
@@ -288,12 +276,9 @@
           </tr>
           <tr>
             <td class="company__identity">
-              <div class="uncheck__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+              <div class="check__box">
+                <input type="checkbox" id="five" disabled />
+                <label for="five"></label>
               </div>
               <img src="~/assets/img/layers.png" alt="company">
               <div class="__company">
@@ -353,11 +338,8 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+                <input type="checkbox" id="six" checked />
+                <label for="six"></label>
               </div>
               <img src="~/assets/img/quotient.png" alt="company">
               <div class="__company">
@@ -417,11 +399,8 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <span>
-                  <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6666 1.5L4.24998 7.91667L1.33331 5" stroke="#7F56D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  </svg>
-                </span>
+                <input type="checkbox" id="seven" checked />
+                <label for="seven"></label>
               </div>
               <img src="~/assets/img/sisyphus.png" alt="company">
               <div class="__company">
