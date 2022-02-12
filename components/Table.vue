@@ -89,7 +89,7 @@
               </svg>
             </td>
           </tr>
-          <tr>
+          <!-- <tr>
             <td class="company__identity">
               <div class="check__box">
                 <input type="checkbox" id="two" checked />
@@ -453,7 +453,7 @@
                   stroke="#667085" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
               </svg>
             </td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
       <div class="table__footer">
