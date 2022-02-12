@@ -1,4 +1,4 @@
-export const state = () => ({
+const state = () => ({
   companies: [
     {
       'id': 1,
@@ -132,5 +132,27 @@ export const state = () => ({
       'about': 'Automation and workflow',
       'about_info': 'Time tracking, invoicing and expenses'
     }
-  ]
+  ],
+  filteredList: []
 })
+
+const actions = {
+  QUERY_TABLE({commit, state}, searchQuery) {
+    const searchResult = state.companies.filter((company) => {
+      return company.name.toLowerCase().match(searchQuery.toLowerCase())
+    })
+    commit('SEARCH_RESULTS', searchResult)
+  }
+}
+
+const mutations = {
+  SEARCH_RESULTS(state, payload) {
+    state.filteredList = payload
+  }
+}
+
+export default {
+  state,
+  mutations,
+  actions
+}
