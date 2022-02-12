@@ -6,7 +6,7 @@
           <tr>
             <th class="company__">
               <div class="check__box">
-                <input class="th_check" type="checkbox" id="th" checked />
+                <input class="th_check" type="checkbox" id="th" @click="showTable" checked />
                 <label for="th"></label>
               </div>
               <span>Company</span>
@@ -29,6 +29,7 @@
         </thead>
         <tbody>
           <TableRow
+            v-if="shown"
             v-for="(company, i) in filteredCompany"
             :key="i"
             :company="company" />
@@ -72,6 +73,17 @@
 
 <script>
 export default {
+  data () {
+    return {
+      shown: true
+    }
+  },
+  methods: {
+    showTable () {
+      this.shown = !this.shown
+      console.log('shiw')
+    }
+  },
   computed: {
     filteredCompany () {
       return this.$store.state.filteredList
