@@ -132,6 +132,10 @@ nav ul li a {
   height: 100%;
 }
 
+.btn__open {
+  display: none;
+}
+
 .nav__sub__four,
 .__search form {
   display: flex;
@@ -166,7 +170,6 @@ nav ul li a {
   position: absolute;
   margin-left: 10px;
   margin-top: -10px;
-  pointer-events: none;
 }
 
 .__welcome {
@@ -785,8 +788,9 @@ nav ul li a {
   /* Style adjustments for viewports that meet the condition */
 
   .btn__open {
-    z-index: 999;
-    transition: all 150ms ease-out;
+    display: block;
+    /* z-index: 999;
+    transition: all 150ms ease-out; */
   }
 
   .mobile__nav {
