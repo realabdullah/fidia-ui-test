@@ -571,62 +571,6 @@ nav ul li a {
   transform: scale(1);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .company__ .uncheck__box {
-  width: 20px;
-  height: 20px;
-  background: #F9F5FF;
-  border: 1px solid #7F56D9;
-  border-radius: 6px;
-  display: flex;
-  justify-content: center;
-  align-items: stretch;
-  cursor: pointer;
-}
-
-.company__identity .check__box {
-  width: 20px;
-  height: 20px;
-  background: #F9F5FF;
-  border: 1px solid #7F56D9;
-  border-radius: 6px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-}
-
-.company__identity .uncheck__box {
-  width: 20px;
-  height: 20px;
-  background: #ffffff;
-  border: 1px solid #D0D5DD;
-  border-radius: 6px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-}
-
-.company__identity .uncheck__box span {
-  display: none;
-} */
-
 .company__identity img {
   width: 40px;
   height: 40px;
