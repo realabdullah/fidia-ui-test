@@ -214,7 +214,7 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <input type="checkbox" id="four" disabled />
+                <input type="checkbox" id="four" />
                 <label for="four"></label>
               </div>
               <img src="~/assets/img/hourglass.png" alt="company">
@@ -274,7 +274,7 @@
           <tr>
             <td class="company__identity">
               <div class="check__box">
-                <input type="checkbox" id="five" disabled />
+                <input type="checkbox" id="five" />
                 <label for="five"></label>
               </div>
               <img src="~/assets/img/layers.png" alt="company">
