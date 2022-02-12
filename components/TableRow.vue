@@ -19,7 +19,10 @@
       </progress>
     </td>
     <td>
-      <span class="__customer">
+      <span v-if="company.status == 'Customer'" class="__customer">
+        {{ company.status }}
+      </span>
+      <span v-else class="__churned">
         {{ company.status }}
       </span>
     </td>
