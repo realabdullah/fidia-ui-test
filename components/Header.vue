@@ -4,7 +4,7 @@
       <div class="nav__sub__one">
         <div class="__logo">
           <img class="log" src="~/assets/img/logo.svg" alt="logo" />
-          <img src="~/assets/img/Vector.svg" alt="logo" />
+          <img class="logotext" src="~/assets/img/Vector.svg" alt="logo" />
         </div>
         <nav>
           <ul>
