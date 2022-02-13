@@ -58,13 +58,7 @@
           <img src="~/assets/img/av1.png" alt="user__avatar" />
         </div>
       </div>
-      <label class="btn__open" for="nav">
-        <svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M1 7.5H15M1 1.5H19M1 13.5H19" stroke="#667085" stroke-width="2" stroke-linecap="round"
-            stroke-linejoin="round" />
-        </svg>
-      </label>
-      <!-- <div class="mobile__menu">
+      <div class="mobile__menu">
         <label class="btn__open" for="nav">
           <svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M1 7.5H15M1 1.5H19M1 13.5H19" stroke="#667085" stroke-width="2" stroke-linecap="round"
@@ -141,7 +135,7 @@
             </li>
           </ul>
         </div>
-      </div> -->
+      </div>
     </div>
     <div class="navbar__two">
       <div class="nav__sub__three">
