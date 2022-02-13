@@ -825,6 +825,14 @@ nav ul li a {
     transition: 0.3s;
   }
 
+  .mobile__nav ul li a {
+    text-decoration: none;
+    color: #344054;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: 500;
+  }
+
   .nav__opener:checked + .mobile__nav {
     display: block;
     width: 100%;
