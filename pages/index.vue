@@ -5,6 +5,7 @@
       <Welcome />
       <Stats />
       <Filters />
+      <div class="hr"></div>
       <Table />
     </main>
   </div>
