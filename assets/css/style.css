@@ -144,7 +144,7 @@ nav ul li a {
   display: none;
 }
 
-.nav__sub__four,
+.nav__sub__four form,
 .__search form {
   display: flex;
   flex-direction: row;
