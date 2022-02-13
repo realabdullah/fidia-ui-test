@@ -791,8 +791,14 @@ nav ul li a {
 
   .btn__open {
     display: block;
-    z-index: 999;
+    /* z-index: 999; */
     /* transition: all 150ms ease-out; */
+  }
+
+  .btn__close {
+    position: fixed;
+    right: 25px;
+    top: 20px;
   }
 
   .mobile__nav {

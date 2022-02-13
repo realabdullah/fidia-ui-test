@@ -67,6 +67,11 @@
         </label>
         <input type="checkbox" id="nav" class="nav__opener" />
         <div class="mobile__nav" id="mobile__nav">
+          <label class="btn__close" for="nav">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" id="SvgjsSvg1001" width="30" height="30" version="1.1"><defs id="SvgjsDefs1002"/><g id="SvgjsG1008"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path fill="none" d="M0,0H24V24H0Z" data-name="Path 3730"/><path fill="#667179" d="M11254.739,13549.608l-3.741-3.74-3.742,3.74a1.323,1.323,0,0,1-1.873-1.869l3.743-3.741-3.743-3.742a1.324,1.324,0,0,1,1.873-1.873l3.742,3.742,3.741-3.742a1.324,1.324,0,0,1,1.873,1.873l-3.742,3.742,3.742,3.741a1.323,1.323,0,0,1-1.873,1.869Z" data-name="Path 2645" transform="translate(-11238.998 -13531.998)" class="color525863 svgShape"/></svg></g>
+            </svg>
+          </label>
+          <input type="checkbox" id="nav" class="nav__opener" />
           <ul>
             <li>
               <NuxtLink to="/">Home</NuxtLink>
